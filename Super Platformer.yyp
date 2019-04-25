@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "094f6c7d-396e-4c46-8a18-6ebe5f4db8e2",
+            "Value": {
+                "id": "8ce2f346-ed37-40d3-8540-6c23d7dfc806",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprJacksonA\/sprJacksonA.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "18b78ec1-0c32-428f-8bba-5bd216809476",
             "Value": {
                 "id": "e09b5dd6-b8f6-4c42-a4a6-ee81f0dbb666",
@@ -454,6 +473,25 @@
                 ],
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b48b44e5-a75c-4494-9ee1-e1404469fd7e",
+            "Value": {
+                "id": "30f83304-5277-41e7-b621-8eb68a076efc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprJacksonR\/sprJacksonR.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
