@@ -2,7 +2,7 @@
     "id": "01fc7cf2-8a57-490d-837e-27ffdfd8adf5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object1",
+    "name": "obJackson",
     "eventList": [
         {
             "id": "544b6040-a47d-4db0-bdef-a90a84da082a",
@@ -25,7 +25,7 @@
             "m_owner": "01fc7cf2-8a57-490d-837e-27ffdfd8adf5"
         }
     ],
-    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "maskSpriteId": "1ec51f94-3138-4afe-8f8d-edf2f6e41485",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,

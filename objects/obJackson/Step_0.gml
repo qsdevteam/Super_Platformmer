@@ -32,3 +32,34 @@ if(place_meeting(x,y+vsp,objWall)){
 	vsp = 0;
 }
 y = y + vsp;
+
+//Animation
+if(!place_meeting(x,y +1, objWall)){
+	sprite_index = sprJacksonA;
+	image_xscale = 1.5
+	image_yscale = 1.5
+	image_speed = 0;
+	if(sign(vsp) > 0){
+		image_index = 1;
+		image_xscale = 1.5
+		image_yscale = 1.5
+	} 
+	else {
+			image_index = 0;
+			image_xscale = 1.5;
+			image_yscale = 1.5;
+		}
+		
+	}
+
+
+
+
+
+
+
+
+
+
+
+
